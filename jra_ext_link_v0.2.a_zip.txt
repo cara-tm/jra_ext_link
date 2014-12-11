@@ -1,0 +1,36 @@
+# Name: jra_ext_link v0.2a (compressed)
+# Type: Public plugin
+# Implements links with target='_blank' server-side
+# Author: Jean Rajotte
+# URL: www.lalabobo.net
+# Recommended load order: 5
+
+# .....................................................................
+# This is a plugin for Textpattern CMS - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+
+H4sIAAAAAAAAA9VWTY/bNhA9r4H8h4lgRDLqlWNvvlZru+ihQDdoe0j2UCBIjZE0kpilSZWk
+4jWC/PcOKTlxttkNgp5yo0ecmTfvzQyN2XyefbDZkyxSuKXowmbzRRa9M7ihG7eRQl1727Ms
+ws412hwuvCRU8Arfaed6p8eHG5vOiGBhn91ul0qUmOtcp4qctz/PovdkrNDK/+K8j9MFBod5
+FpVkCyNad/h6nkWX21bSlpSz4NFY2AnXgENTk1vFm1yiuo7BkuGop1aUNIQtdH98uuCMVacK
+HxSOC0vG6Jydwtg1QtWrOJ7AhwejB6OTWuocJYxbQ5W9CCb2MVi4RP7CLgkag/uEzSdxIdHa
+GFZriDfxNJhQyhhO2FKhtORtE07ic00mfbRxZySsgOPXm3867Sjpc72JrXDEH+O3/ubJbAav
+qKYb71KxQzwL6VZRDCmMw5kPcfIGoreTWexdxnW4t8QkefP3+m3y88M49enSeDL5abKeCRsP
+GIy/CIbkKlK60lLqXXT750Bz1NMcwef0n7OP50NEUQFTKuXEszDWnTuUaKiVWFAC43oK8RLH
+82/kWcdTaNFY5iVoE3g7IWbz7tAVc2y+4sYehlxnFHi/YPg4tIjbt33zchOGVskibUoyg+3p
+YKsk1vb4Hrs2JNtgOn/Bfb5s11eNsNDKrhYK+ITQYHENTgPXBWh0p0pwDXFPFI4P6OCKe6rl
+riCGVmqyKnbs9J7YV6ETfNjh3kcoDKGj4+7H24SlAFcNGeIAFnIixVekdqArvimvgSeQOds1
+exAutqD401+/Xf3xOyMR9hS0CZBOC71lRCKXNIW8c1OoDEeXe9juoSRketM05TCMCQ3ZhwCX
+FVwyTuXAdoUH5lEyggI7S5wMtnhN1vu3WBNsNWPsLIYMl2Ab3cmSr4O3+FpL7Z18kR5w1Vme
+T2TqDpZCCl4FYc7hJb7Hfl0wuJZUSaoQZNPlrF2PvCQaehBT2BlsA/3cM34N7AJZe9312P2X
+nJh8oTsDrKA3DGI6rJndS3XkzpCkHPQIUgbZ/HfOZ05LqoSish8WRs53+wu3hgnLkm9x0ey5
+7RXkQirspBt8uZGiTRS0CGALXrqa95zx5XvpOCH3eUjNOFnZYUA5uHNGsB+lI8/H0lOSr193
+dU3WcVoWoaZsOcvXn8nxEtmQyPPW79k+ctDAGx03rZB9Mw4gvWqh4p6RT/Rzul9v0G9vmEPy
+WvjTpI/6ZZWfoAY4g7uh9eiRdBfups2Ol/aj2l2MuAtHYeB2n/pHQZRsJnyLxwl7caKsca7N
+ZjP/DPnlEVRPucnTEMGHn301PmPw+bmCvSBZ2gDsCFTrb/0HgP/Cc8+LfBXdlfnOlbqJfMwv
+8Ad86M1pOLZfYAsEL8X6T34+oNG7INWgCAtmaItC2UMz8+y03ER+5lkgsT5iOtR5UGoBSdFZ
+p7d9qMlQeeiguyQ5lMCvfHSfPPz9BxboUN33SnRg9uzWDPhp4vXsN8l3DYD3WEXz+5j+AUi+
+//3/H6OQHe1mfqOgaFDVvO++MQf+LT/Lom0ZHv0z/of7JK/Ozx5X82qB5/mLMkcqq/P5gvBZ
+SYsn8+fRxcd/AUM4fZw9CwAA
