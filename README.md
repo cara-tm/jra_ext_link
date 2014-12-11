@@ -5,7 +5,7 @@ Fork of jra_ext_link TXP plugin by © Jean Rajotte
 
 New attribute added "all" (boolean): sets to 1 rewrite all links without the need to add a class name. New all links contains a rel="nofollow" and a target="_blank" *excepted* links for the current website.
 
-# Example 1 (Simple) with default class attribute:
+# Example 1 (Simple) with default "class" attribute:
 
     <txp:jra_ext_link>
     ...
@@ -31,7 +31,7 @@ Note how the class tag remains in the output HTML.
 
     This would be an <a href="http://www.elsewhere.com" target="_blank" class="bob">external link</a>.
 
-# Example 3 (Simple) with use of all attribute:
+# Example 3 (Simple) with use of "all" attribute:
 
     <txp:jra_ext_link all="1">
     ...
