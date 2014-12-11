@@ -35,7 +35,7 @@ Note how the class tag remains in the output HTML.
 
     <txp:jra_ext_link all="1">
     ...
-    This would be an "external link":http://www.elsewhere.com.
+    This would be an "external link":http://www.elsewhere.com and "(my-class)internal links stay unchanged":http://my-domain.com.
     ...
     </txp:jra_ext_link>
 
