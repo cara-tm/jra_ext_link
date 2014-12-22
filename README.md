@@ -9,6 +9,8 @@ Simplifies writing. Perfect for copy editors who remain focused on their texts w
 Plugin available in two versions: **0.2.a** (with new attribute "all") _and_ **0.2.b** (with "all" & "nofollow" attributes).
 These two attributes accept boolean values 1 or 0 (1 = "_yes_"; 0 = "_no_"). 
 
+To install: copy .txt file version chosen, then paste it into "Admin"->"Plugins" textarea.
+
 # Example 1 (Simple) with default "class" attribute:
 
     <txp:jra_ext_link>
