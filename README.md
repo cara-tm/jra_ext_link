@@ -46,3 +46,15 @@ Note how the class tag remains in the output HTML.
 ## yields:
 
     This would be an <a href="http://www.elsewhere.com" rel="nofollow" target="_blank">external link</a> and <a href="http://my-domain.com" title="Go to this page" class="my-class">internal links stay unchanged</a>.</p>
+
+# Example 4 (version 0.2.b) with use of "all" & "nofollow" attributes:
+
+    <txp:jra_ext_link all="1" nofollow="0">
+    ...
+    This would be an "external link":http://www.elsewhere.com and "(my-class)internal links stay unchanged":http://my-domain.com.
+    ...
+    </txp:jra_ext_link>
+
+## yields:
+
+    This would be an <a href="http://www.elsewhere.com" target="_blank">external link</a> and <a href="http://my-domain.com" title="Go to this page" class="my-class">internal links stay unchanged</a>.</p>
